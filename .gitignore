@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# keystone.js
+.keystone
+
 # next.js
 /.next/
 /out/
